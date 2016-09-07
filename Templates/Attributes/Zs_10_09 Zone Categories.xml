@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+			<RoomCategory Idx="2000" Name="= ADMINISTRATIVE, COMMERCIAL, SERVICE =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>F54A4405-85F2-448E-BD23-648C6F88E0D4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= ADMINISTRATIVE, COMMERCIAL, SERVICE =</Name>
+				<Index>2000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_20</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>65021</Red>
+					<Green>16705</Green>
+					<Blue>9766</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = ADMINISTRATIVE, COMMERCIAL, SERVICE = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="2025" Name="Administrative spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>F5FB169E-7122-43ED-934C-1C5E9DF85A6D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Administrative spaces</Name>
+				<Index>2025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_20_15</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>65021</Red>
+					<Green>16705</Green>
+					<Blue>9766</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Administrative spaces - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="2026" Name="Meeting rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>FE50195D-B4BA-457D-8DE0-027139E0799F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Meeting rooms</Name>
+				<Index>2026</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_20_15</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Meeting rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="2027" Name="Offices">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4D9BCC2C-416E-4B2A-9231-F9CA725C222C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Offices</Name>
+				<Index>2027</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_20_15</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Offices - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="2028" Name="Reception areas">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>34782CE4-E679-466F-8E6E-B48226FDB21D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Reception areas</Name>
+				<Index>2028</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_20_15</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>64507</Red>
+					<Green>36751</Green>
+					<Blue>20303</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Reception areas - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="2075" Name="Commercial spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>6FA75F47-BE0D-46C9-A42B-3D0488803BD5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Commercial spaces</Name>
+				<Index>2075</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_20_50</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>64250</Red>
+					<Green>51400</Green>
+					<Blue>17733</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Commercial spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="2500" Name="= CULTURAL, EDUCATION, SCIENTIFIC =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>7CB9837D-15FB-40DF-8981-46F525E9C404</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= CULTURAL, EDUCATION, SCIENTIFIC =</Name>
+				<Index>2500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_25</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = CULTURAL, EDUCATION, SCIENTIFIC = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3000" Name="= INDUSTRIAL SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>611BDA9C-1426-44A1-9881-168602617BDB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= INDUSTRIAL SPACES =</Name>
+				<Index>3000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>29298</Red>
+					<Green>27242</Green>
+					<Blue>20046</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = INDUSTRIAL SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3100" Name="Warehousing and distribution spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>E2142983-75B1-4CF8-B725-9AB22FCC6CA8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Warehousing and distribution spaces</Name>
+				<Index>3100</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>41120</Red>
+					<Green>38807</Green>
+					<Blue>29812</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Warehousing and distribution spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3101" Name="Goods delivery bays">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>74016297-8EFB-42FE-BFCD-0BA16D0A9BED</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Goods delivery bays</Name>
+				<Index>3101</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>42405</Red>
+					<Green>41120</Green>
+					<Blue>36237</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Goods delivery bays - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3102" Name="Loading docks">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>F2B98F22-DA86-497A-8B9C-A5EA7469F7B8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Loading docks</Name>
+				<Index>3102</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>42405</Red>
+					<Green>41120</Green>
+					<Blue>36237</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Loading docks - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3103" Name="Sorting and distribution spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>612C0D9F-5069-4A38-B166-C9AD7C857C3E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Sorting and distribution spaces</Name>
+				<Index>3103</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>42405</Red>
+					<Green>41120</Green>
+					<Blue>36237</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Sorting and distribution spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3104" Name="Storage yards">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>B74C1361-FFF9-4706-84AC-BB10EE7BA02D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Storage yards</Name>
+				<Index>3104</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>42405</Red>
+					<Green>41120</Green>
+					<Blue>36237</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Storage yards - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3105" Name="Warehouse spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4F481CA3-A2BA-436B-BA4A-8AD2BCAEF712</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Warehouse spaces</Name>
+				<Index>3105</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_30_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>42405</Red>
+					<Green>41120</Green>
+					<Blue>36237</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Warehouse spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3200" Name="= NATURAL &amp; AGRICULTURAL =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>A4E9D4BA-EAA0-4619-BD53-FDE9E592A831</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= NATURAL &amp; AGRICULTURAL =</Name>
+				<Index>3200</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_32</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = NATURAL &amp; AGRICULTURAL = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="3500" Name="= MEDICAL, WELFARE, SANITARY =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>5822FBF0-F830-4E06-AC05-03A3A6E08256</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= MEDICAL, WELFARE, SANITARY =</Name>
+				<Index>3500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_35</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = MEDICAL, WELFARE, SANITARY = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4000" Name="= RECREATIONAL SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4A0D2CD8-65D2-44E0-85A4-ED39EC4980CF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= RECREATIONAL SPACES =</Name>
+				<Index>4000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_40</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = RECREATIONAL SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4200" Name="= SPORT &amp; ACTIVITY SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>74BD1DE4-B07F-4DCA-BC54-45C741368873</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= SPORT &amp; ACTIVITY SPACES =</Name>
+				<Index>4200</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_42</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = SPORT &amp; ACTIVITY SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4500" Name="= RESIDENTIAL SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>A6A764C6-8DC0-46A4-BDE1-EEC1D5FF6D28</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= RESIDENTIAL SPACES =</Name>
+				<Index>4500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>40092</Red>
+					<Green>52942</Green>
+					<Blue>1542</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = RESIDENTIAL SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4501" Name="Apartment spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>ECEE93A3-F43C-4852-949F-E5809630F64C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment spaces</Name>
+				<Index>4501</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 00</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4502" Name="Apartment Studio">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>83BBF218-E181-487E-BA66-FF30BC3120F0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment Studio</Name>
+				<Index>4502</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 0S</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>56540</Red>
+					<Green>62451</Green>
+					<Blue>46774</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment Studio - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4503" Name="Apartment 1-Room">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>E42DAC34-6C1A-4B1D-B08E-BFCD3C6C3F77</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 1-Room</Name>
+				<Index>4503</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 1A</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>53456</Red>
+					<Green>60395</Green>
+					<Blue>32382</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 1-Room - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4504" Name="Apartment 1-Room (Studio)">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4B608595-08EE-4C01-A65F-A301056D8620</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 1-Room (Studio)</Name>
+				<Index>4504</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 1S</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>48830</Red>
+					<Green>57054</Green>
+					<Blue>16705</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 1-Room (Studio) - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4505" Name="Apartment 2-Room">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>83C38219-1692-4E19-9F7F-2D6A6E7C7FBB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 2-Room</Name>
+				<Index>4505</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 2A</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>60909</Red>
+					<Green>60909</Green>
+					<Blue>34695</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 2-Room - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4506" Name="Apartment 2-Room (Studio)">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>BDF8EBE1-4A39-4F83-B6C4-107712E42156</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 2-Room (Studio)</Name>
+				<Index>4506</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 2S</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>55769</Red>
+					<Green>55769</Green>
+					<Blue>12593</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 2-Room (Studio) - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4507" Name="Apartment 3-Room">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>6108A8FF-B701-45C6-B71D-8952E50C29B9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 3-Room</Name>
+				<Index>4507</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 3A</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>62194</Red>
+					<Green>54227</Green>
+					<Blue>30583</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 3-Room - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4508" Name="Apartment 3-Room (Studio)">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>A258D312-F6C3-41E4-BDEB-11BA8A95E484</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 3-Room (Studio)</Name>
+				<Index>4508</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 3S</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>60652</Red>
+					<Green>48830</Green>
+					<Blue>13107</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 3-Room (Studio) - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4509" Name="Apartment 4-Room">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>FB542A62-6290-43ED-9F88-CBB80EE6CFC0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 4-Room</Name>
+				<Index>4509</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 4A</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>60652</Red>
+					<Green>47802</Green>
+					<Blue>34952</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 4-Room - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4510" Name="Apartment 4-Room (Studio)">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>E52E0C40-02AF-43ED-8C8A-95EEFBDDAE47</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 4-Room (Studio)</Name>
+				<Index>4510</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 4S</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>61937</Red>
+					<Green>38293</Green>
+					<Blue>14392</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 4-Room (Studio) - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4511" Name="Apartment 5-Room">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>AD3ADAC3-AAFC-4B63-A788-699756C62AC7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 5-Room</Name>
+				<Index>4511</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 5A</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>60652</Red>
+					<Green>41634</Green>
+					<Blue>34952</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 5-Room - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4512" Name="Apartment 5-Room (Studio)">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>C1D65097-4A8E-40C4-B6D6-F563BDED3292</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Apartment 5-Room (Studio)</Name>
+				<Index>4512</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45 5S</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>61937</Red>
+					<Green>26471</Green>
+					<Blue>14392</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Apartment 5-Room (Studio) - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4525" Name="Living spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>676C3F88-E610-4802-A930-2D84A535DF32</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Living spaces</Name>
+				<Index>4525</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>53456</Red>
+					<Green>60395</Green>
+					<Blue>32382</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Living spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4526" Name="Balconies">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>8650ABEC-ED0B-4132-9BD2-AF4EDBA30D1B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Balconies</Name>
+				<Index>4526</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>56283</Red>
+					<Green>52942</Green>
+					<Blue>56283</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Balconies - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4527" Name="Bed &amp; studies">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>5D48292F-9C67-4AA3-BB82-38844FE5E652</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bed &amp; studies</Name>
+				<Index>4527</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Bed &amp; studies - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4528" Name="Bedrooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>E4E8616E-C369-4726-ADD7-7AF700A77E4D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bedrooms</Name>
+				<Index>4528</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>64507</Red>
+					<Green>61937</Green>
+					<Blue>44718</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Bedrooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4529" Name="Camp sites">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>E7A7164D-2164-440B-B99D-A8435D92F234</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Camp sites</Name>
+				<Index>4529</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Camp sites - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4530" Name="Corridor sites">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>7DF4736F-1DE7-4146-BA4F-F679072229B5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Corridor sites</Name>
+				<Index>4530</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>61937</Green>
+					<Blue>28013</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Corridor sites - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4531" Name="Communal living rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>0EF527DD-E798-4BC8-BCCB-7E1194B130BA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Communal living rooms</Name>
+				<Index>4531</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Communal living rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4532" Name="Concierge offices">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>5B9732D8-CC22-4B56-877A-BCDF061A9C2A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Concierge offices</Name>
+				<Index>4532</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Concierge offices - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4533" Name="Conservatories">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>B07770C6-1F98-4DEE-9F7F-E7D4DF31A7F5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Conservatories</Name>
+				<Index>4533</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Conservatories - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4534" Name="Domestic dining rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>87781F74-CFB5-4E68-8F0F-57C69241098F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Domestic dining rooms</Name>
+				<Index>4534</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Domestic dining rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4535" Name="Dormitories">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>93A6310D-9629-4AEB-8C42-5C580B4B3643</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Dormitories</Name>
+				<Index>4535</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Dormitories - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4536" Name="Gardens">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>A2AB3C55-1BAA-4E2E-B1C7-B09105E2752E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Gardens</Name>
+				<Index>4536</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Gardens - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4537" Name="Kitchen &amp; Dining rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>52763429-2D4F-4855-9607-91F6FE4EDF52</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Kitchen &amp; Dining rooms</Name>
+				<Index>4537</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>37779</Red>
+					<Green>57825</Green>
+					<Blue>57825</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Kitchen &amp; Dining rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4538" Name="Domestic kitchens">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>694378B5-8946-4A49-962F-5CAB15946FD0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Domestic kitchens</Name>
+				<Index>4538</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Domestic kitchens - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4539" Name="Living rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>91C2EEB2-1615-4948-A08A-910FAEC22F72</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Living rooms</Name>
+				<Index>4539</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>64764</Red>
+					<Green>57054</Green>
+					<Blue>44461</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Living rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4540" Name="Nursing home bedrooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>5121BB57-8CCA-40F1-84FC-7A6CD9281C35</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Nursing home bedrooms</Name>
+				<Index>4540</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Nursing home bedrooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4541" Name="Panic rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4C850DDE-CC78-4859-94A1-FEFA29EF8C2F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Panic rooms</Name>
+				<Index>4541</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Panic rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4542" Name="Showers">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>91617827-6CD9-42B3-ADD5-787A20BB37F8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Showers</Name>
+				<Index>4542</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Showers - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4543" Name="Store rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>3C32D9A2-8B28-4EE4-9AF6-52E1F9C6F7B4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Store rooms</Name>
+				<Index>4543</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>35466</Red>
+					<Green>60138</Green>
+					<Blue>38550</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Store rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4544" Name="Sanitary">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>EA29F34E-B6A7-4A30-971A-A45C8EC16E65</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Sanitary</Name>
+				<Index>4544</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>47802</Red>
+					<Green>45489</Green>
+					<Blue>63736</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Sanitary - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4545" Name="Utility rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>C7851BC0-010F-4D20-BAC8-1BD102AB2852</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Utility rooms</Name>
+				<Index>4545</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Utility rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4546" Name="Verandas">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>FDE3568C-9A82-4311-83A6-1438050883DA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Verandas</Name>
+				<Index>4546</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54741</Red>
+					<Green>49087</Green>
+					<Blue>54741</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Verandas - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="4547" Name="Walk-in wardrobes">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>23ADDFF1-E064-4DB4-ACA9-A462623E1647</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Walk-in wardrobes</Name>
+				<Index>4547</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_45_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>54484</Red>
+					<Green>54484</Green>
+					<Blue>54484</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Walk-in wardrobes - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="5000" Name="= DISPOSAL SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>9F3BC5A6-7441-4CEB-94D5-4952B494EA95</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= DISPOSAL SPACES =</Name>
+				<Index>5000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_50</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = DISPOSAL SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="5500" Name="= PIPED SUPPLY SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>3D5589CF-39EC-4094-AA85-84AC835097AF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= PIPED SUPPLY SPACES =</Name>
+				<Index>5500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_55</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = PIPED SUPPLY SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="6000" Name="= HEATING, COOLING, REFRIGERATION =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>C7564AC5-2D8C-4EAD-9B2B-CBC055E1445C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= HEATING, COOLING, REFRIGERATION =</Name>
+				<Index>6000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_60</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = HEATING, COOLING, REFRIGERATION = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="6500" Name="= VENTILATION AND AIR CONDITIONING =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>F7AD0FCC-EA95-4B15-8E7E-E5BECCFB3E43</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= VENTILATION AND AIR CONDITIONING =</Name>
+				<Index>6500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_65</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = VENTILATION AND AIR CONDITIONING = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="7000" Name="= ELECTRICAL SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>718EFF63-580E-48D8-827E-3C4D3AB65642</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= ELECTRICAL SPACES =</Name>
+				<Index>7000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_70</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = ELECTRICAL SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="7500" Name="= COMMUNICATION, SECURITY, SAFETY =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>CAAA1044-06FE-4DE5-93F5-D8B860321CFB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= COMMUNICATION, SECURITY, SAFETY =</Name>
+				<Index>7500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_75</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>49344</Red>
+					<Green>49344</Green>
+					<Blue>49344</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = COMMUNICATION, SECURITY, SAFETY = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="8000" Name="= TRANSPORT SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>B00F5FBD-457E-4536-83E9-B25502EE9DA2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= TRANSPORT SPACES =</Name>
+				<Index>8000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_80</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>47802</Red>
+					<Green>27242</Green>
+					<Blue>20560</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = TRANSPORT SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="8150" Name="Highway storage and maintenance spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>F62C29E9-4378-446A-881E-B64E03CC97C1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Highway storage and maintenance spaces</Name>
+				<Index>8150</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_80_45</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>48830</Red>
+					<Green>30840</Green>
+					<Blue>24929</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Highway storage and maintenance spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="8154" Name="Indoor car parking spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>49526827-1E2E-441D-9F61-EBD0CC244F78</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Indoor car parking spaces</Name>
+				<Index>8154</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_80_45</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>53456</Red>
+					<Green>40863</Green>
+					<Blue>36494</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Indoor car parking spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="8155" Name="Outdoor car parking spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4ECA13C8-5488-441A-AA3A-BB31EE68A992</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Outdoor car parking spaces</Name>
+				<Index>8155</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_80_45</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>53456</Red>
+					<Green>40863</Green>
+					<Blue>36494</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Outdoor car parking spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9000" Name="= CIRCULATION &amp; PLANT SPACES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>3B5E1559-E12E-4105-BEA9-78F8ECD57EA7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= CIRCULATION &amp; PLANT SPACES =</Name>
+				<Index>9000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>32382</Red>
+					<Green>34695</Green>
+					<Blue>25443</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = CIRCULATION &amp; PLANT SPACES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9001" Name="Circulation spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>E6D204B3-C6B9-4791-AF88-B3B06FF4A2A9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Circulation spaces</Name>
+				<Index>9001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>41634</Red>
+					<Green>43176</Green>
+					<Blue>35980</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Circulation spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9004" Name="Corridors">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>5F7A1480-A0D0-43C9-B7FA-318F43BCB313</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Corridors</Name>
+				<Index>9004</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>49087</Red>
+					<Green>50372</Green>
+					<Blue>45232</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Corridors - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9018" Name="Stairways">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>1B7C09A4-E1A4-4929-BE27-79E89FB72961</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Stairways</Name>
+				<Index>9018</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>49087</Red>
+					<Green>50372</Green>
+					<Blue>45232</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Stairways - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9019" Name="Vestibules">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>A039BE8D-C56C-439D-AA58-6BB570FF40AF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Vestibules</Name>
+				<Index>9019</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>49087</Red>
+					<Green>50372</Green>
+					<Blue>45232</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Vestibules - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9021" Name="Wheelchair circulation spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>61FDDCB4-3DFE-4259-B027-3D5E95FBCFBB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Wheelchair circulation spaces</Name>
+				<Index>9021</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_10</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>49087</Red>
+					<Green>50372</Green>
+					<Blue>45232</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Wheelchair circulation spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9025" Name="Common spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>21FEA7A9-F6DD-42FC-95E4-A77140549FCE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Common spaces</Name>
+				<Index>9025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_20</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>48830</Red>
+					<Green>47545</Green>
+					<Blue>38036</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Common spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9050" Name="Storage spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>1DD591C4-A082-4D36-82E5-C708D269BA63</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Storage spaces</Name>
+				<Index>9050</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_50</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>44461</Red>
+					<Green>37522</Green>
+					<Blue>40092</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Storage spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9075" Name="Unoccupied voids">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>EABE7305-B2DD-4E86-B10D-1E4B2961DCF9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Unoccupied voids</Name>
+				<Index>9075</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_60</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>35723</Red>
+					<Green>46260</Green>
+					<Blue>40863</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Unoccupied voids - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9076" Name="Access spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>3AB49670-0117-47D3-A89F-95FFEBD7D0CE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Access spaces</Name>
+				<Index>9076</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_60</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>51657</Green>
+					<Blue>47802</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Access spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9077" Name="Air shafts">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>C7E9A991-6EE2-479F-8009-96C313CDCCC4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Air shafts</Name>
+				<Index>9077</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_60</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>51657</Green>
+					<Blue>47802</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Air shafts - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9082" Name="Lift shafts">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>91DFB559-61D4-4CFC-A015-02214A95273E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Lift shafts</Name>
+				<Index>9082</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_60</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>51657</Green>
+					<Blue>47802</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Lift shafts - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9100" Name="Plant and control spaces">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>4A1D85B2-C3FE-458E-A79E-335AF90C2FD1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Plant and control spaces</Name>
+				<Index>9100</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>35980</Red>
+					<Green>38036</Green>
+					<Blue>43176</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Plant and control spaces - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9102" Name="Boiler rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>93873A89-EFD2-4956-8466-7E06FDDCAFAB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Boiler rooms</Name>
+				<Index>9102</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Boiler rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9108" Name="Lift machine rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>87092DE2-9420-4733-A6F9-BF132F6F63A4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Lift machine rooms</Name>
+				<Index>9108</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Lift machine rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9109" Name="Plant rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>0D7D3394-623D-4469-822A-2856E7F0280C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Plant rooms</Name>
+				<Index>9109</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Plant rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9110" Name="Server rooms">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>9297DA8B-3B08-402D-88D9-B205697E661C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Server rooms</Name>
+				<Index>9110</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_90_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>43947</Red>
+					<Green>46003</Green>
+					<Blue>51657</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Server rooms - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9900" Name="= BIM &amp; DESIGN PURPOSES =">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>775B0AD4-F40F-4F51-BC5E-0FC279AB77E2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>= BIM &amp; DESIGN PURPOSES =</Name>
+				<Index>9900</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99</Code>
+				<StampName>Zone Stamp 02 20</StampName>
+				<RGBColor>
+					<Red>4112</Red>
+					<Green>47802</Green>
+					<Blue>36751</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - = BIM &amp; DESIGN PURPOSES = - Zone Stamp 02 20.xml</Location>
+				</AddParData>
+				<MainGuid>8FE41C06-DEDA-44EF-9B75-11DC84EE7E9E</MainGuid>
+				<RevGuid>A084EBE6-0E03-457B-B9D4-0694EFC52D5B</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9901" Name="Special Areas">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>89D6E925-E024-4F82-9CB3-BBF82E5A733B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Special Areas</Name>
+				<Index>9901</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_50</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>15934</Red>
+					<Green>57825</Green>
+					<Blue>47545</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Special Areas - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9902" Name="Roofs">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>738A17D3-899E-4DF2-A5A7-60CD03252EF2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Roofs</Name>
+				<Index>9902</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_50</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>35466</Red>
+					<Green>60138</Green>
+					<Blue>53970</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Roofs - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9903" Name="Floors">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>633BC4EB-18F5-476F-BB55-EE913B49559F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Floors</Name>
+				<Index>9903</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_50</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>35466</Red>
+					<Green>60138</Green>
+					<Blue>53970</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Floors - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9925" Name="Reserved">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>C0FE36AF-404A-4EAB-8095-EF6461ADA7A9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Reserved</Name>
+				<Index>9925</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_60</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>15934</Red>
+					<Green>57825</Green>
+					<Blue>47545</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Reserved - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9950" Name="Building Volumes">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>BD949932-6B79-4F98-990F-348A84A00D9E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Building Volumes</Name>
+				<Index>9950</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_90</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>15934</Red>
+					<Green>57825</Green>
+					<Blue>47545</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Building Volumes - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9975" Name="Gross Area">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>EE5BB9B4-2816-473E-B36A-1CF29982F1F5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Gross Area</Name>
+				<Index>9975</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_95</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>15934</Red>
+					<Green>57825</Green>
+					<Blue>47545</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Gross Area - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+			<RoomCategory Idx="9999" Name="Separator">
+				<OdbObj Mv="3" Sv="1">
+					<OdbRef>
+						<guid>B943347C-119B-4588-A6E1-C5FBDB966E9D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Separator</Name>
+				<Index>9999</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<Code>SL_99_99_xx</Code>
+				<StampName>Basic Zone Stamp</StampName>
+				<RGBColor>
+					<Red>0</Red>
+					<Green>0</Green>
+					<Blue>0</Blue>
+				</RGBColor>
+				<AddParData>
+					<Location>AddPars\Zone - Separator - Basic Zone Stamp.xml</Location>
+				</AddParData>
+				<MainGuid>2F459A6C-2FF8-45E4-B443-9F520E681559</MainGuid>
+				<RevGuid>4EC39877-1BF8-BE46-BDF7-F798225E1FA4</RevGuid>
+			</RoomCategory>
+		</Attributes>
+		<Attributes Type="Mark-Up Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

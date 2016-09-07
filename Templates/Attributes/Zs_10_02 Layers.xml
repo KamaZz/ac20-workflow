@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+			<Layer Idx="1" Name="ARCHICAD Layer">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>51A9F9B6-0840-4DE1-8C4D-05DF1BDA8F23</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>ARCHICAD Layer</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1500" Name="EF_15 = PREPARATORY ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>37139C76-0CE2-4F5A-87FC-DB150E624C9F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_15 = PREPARATORY ELEMENTS =</Name>
+				<Index>1500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1528" Name="EF_15_30 Transport surveys">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>363A8129-14B0-428C-BB7D-54B56ABF1053</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_15_30 Transport surveys</Name>
+				<Index>1528</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1553" Name="EF_15_50 Building surveys">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>166294FC-B8F4-4A4F-A7C5-F702E75D0F5F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_15_50 Building surveys</Name>
+				<Index>1553</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="1576" Name="EF_15_70 Landscape preparation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>8120C477-77A4-4F93-A7F7-961FB1E3B7B1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_15_70 Landscape preparation</Name>
+				<Index>1576</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2000" Name="EF_20 = STRUCTURAL ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6438F92D-86EA-46D4-803A-8D0AF66F8DF8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20 = STRUCTURAL ELEMENTS =</Name>
+				<Index>2000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2001" Name="EF_20_05 Substructure">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2F0EC937-DA1E-4E30-B1AB-C2BCCC87F8B4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_05 Substructure</Name>
+				<Index>2001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2002" Name="EF_20_05 Substructure, Grillage">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>96C1ED0E-B726-454E-BAFA-474E763AA79E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_05 Substructure, Grillage</Name>
+				<Index>2002</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2003" Name="EF_20_05 Substructure, Piles">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BDE5DB95-894C-4A13-8DE4-BE5D1B8B5E56</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_05 Substructure, Piles</Name>
+				<Index>2003</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2025" Name="EF_20_10 Frames">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BAF083C4-CBEF-4483-A953-18BC63A34766</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_10 Frames</Name>
+				<Index>2025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2026" Name="EF_20_10 Frames, Slabs">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>DF399277-D893-46FF-9404-C2F47189FAAF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_10 Frames, Slabs</Name>
+				<Index>2026</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2027" Name="EF_20_10 Frames, Walls">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C276C350-4789-4DA3-A714-3612D0456E48</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_10 Frames, Walls</Name>
+				<Index>2027</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2050" Name="EF_20_20 Beams">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1601F8BC-525E-44A4-AC4E-12C52AB78BFF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_20 Beams</Name>
+				<Index>2050</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2051" Name="EF_20_20 Beams, joint elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E46384BD-8A75-486F-B12C-C0871B3C8BB5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_20 Beams, joint elements</Name>
+				<Index>2051</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2075" Name="EF_20_30 Columns">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>5EBDBC91-0496-420F-82C7-5D58DBD5404A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_20_30 Columns</Name>
+				<Index>2075</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2500" Name="EF_25 = WALL AND BARRIER ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>8E868597-C5BF-46DE-B921-75D5F4F7DC92</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25 = WALL AND BARRIER ELEMENTS =</Name>
+				<Index>2500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2502" Name="EF_25_10 Walls covering &amp; finishing">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BC626928-524C-4420-9A5C-92840699066C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25_10 Walls covering &amp; finishing</Name>
+				<Index>2502</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2503" Name="EF_25_10 Walls, Basement">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>47121F96-AD3A-4FD6-B324-1836E0382B8B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25_10 Walls, Basement</Name>
+				<Index>2503</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2504" Name="EF_25_10 Walls, External">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>804A7A98-0D0A-4A69-BC6A-E0C78B1C02A4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25_10 Walls, External</Name>
+				<Index>2504</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2505" Name="EF_25_10 Walls, Internal">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>DA71F40F-5035-499F-841D-F3B298F9DBEB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25_10 Walls, Internal</Name>
+				<Index>2505</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2525" Name="EF_25_40 Fences">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>459E653F-3BB2-413B-87FA-8E7E54218EC2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25_40 Fences</Name>
+				<Index>2525</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="2550" Name="EF_25_55 Barriers">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6466F0D4-6471-4607-A019-2C79AE67A51D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_25_55 Barriers</Name>
+				<Index>2550</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3000" Name="EF_30 = ROOF, FLOOR AND PAVING ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>73DA55AD-10C3-4E12-98DB-67F830C86F64</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30 = ROOF, FLOOR AND PAVING ELEMENTS =</Name>
+				<Index>3000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>3000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3001" Name="EF_30_10 Roofs">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A81B9180-9C94-4076-AE73-ACE7F689410F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30_10 Roofs</Name>
+				<Index>3001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3011" Name="EF_30_10 Roofs canopies">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F20B542B-29CC-4439-B32D-3E6CF9E49221</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30_10 Roofs canopies</Name>
+				<Index>3011</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3078" Name="EF_30_40 Upper floors ceiling or soffit">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>8B82F76D-F4F5-49D9-B79B-52629785D3A8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30_40 Upper floors ceiling or soffit</Name>
+				<Index>3078</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3081" Name="EF_30_40 Upper floors floor coverings">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2CC3D6B7-916B-42A8-8FD5-C09BF1A03011</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30_40 Upper floors floor coverings</Name>
+				<Index>3081</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3083" Name="EF_30_40 Upper floors floor finishes">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3AFD2B03-CD2B-4448-A5AC-C82BD8AE6A26</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30_40 Upper floors floor finishes</Name>
+				<Index>3083</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3125" Name="EF_30_60 On-ground paving">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A4066BBF-CD4D-4689-8B91-4AC771093CE9</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_30_60 On-ground paving</Name>
+				<Index>3125</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3500" Name="EF_35 = STAIRS AND RAMPS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>514EC25B-005E-4798-9484-B0708A409912</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_35 = STAIRS AND RAMPS =</Name>
+				<Index>3500</Index>
+				<Flags>Layer_Hidden|Layer_Locked</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>3500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3501" Name="EF_35_10 Stairs">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>211B4869-82F1-4D6F-965F-8E3FBF10FF35</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_35_10 Stairs</Name>
+				<Index>3501</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3502" Name="EF_35_10 Stairs, fire escapes">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>16BC2302-E714-460D-8B78-5894D3A412A8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_35_10 Stairs, fire escapes</Name>
+				<Index>3502</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="3525" Name="EF_35_20 Ramps">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2F616A6C-40D9-4320-9AB8-92C314C4E2DF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_35_20 Ramps</Name>
+				<Index>3525</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4000" Name="EF_40 = SIGNAGE, FURNISHINGS, EQUIPMENT =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>85660D70-76EF-45CB-AB4E-6F692853DB71</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40 = SIGNAGE, FURNISHINGS, EQUIPMENT =</Name>
+				<Index>4000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>4000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4001" Name="EF_40_10 Signage">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3C201C78-9207-4200-9912-577FF5450127</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40_10 Signage</Name>
+				<Index>4001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4026" Name="EF_40_15 General FF&amp;E">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3C10E29D-0394-4341-A826-DB7D33A9FECC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40_15 General FF&amp;E</Name>
+				<Index>4026</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4031" Name="EF_40_15 Recreational FF&amp;E">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>54B127E9-1657-4271-8E2C-E0C291B942D3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40_15 Recreational FF&amp;E</Name>
+				<Index>4031</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4032" Name="EF_40_15 Residential FF&amp;E">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3179DEFD-1E71-412D-9675-B9297112251D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40_15 Residential FF&amp;E</Name>
+				<Index>4032</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4040" Name="EF_40_15 Road FF&amp;E">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>18B75E79-AC4A-4A91-95A6-E32ADE175B5A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40_15 Road FF&amp;E</Name>
+				<Index>4040</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4475" Name="EF_40_95 Temporary FF&amp;E">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7054BF70-F5AB-43F5-885E-97B11DEE3EC5</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_40_95 Temporary FF&amp;E</Name>
+				<Index>4475</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4500" Name="EF_45 = FLORA AND FAUNA ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1723222D-D282-4809-9CA7-5DE02B8AA227</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_45 = FLORA AND FAUNA ELEMENTS =</Name>
+				<Index>4500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>4500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="4999" Name="EF_50 75 = MEP ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D710414A-AB2F-4F87-AD63-97BEE1162410</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_50 75 = MEP ELEMENTS =</Name>
+				<Index>4999</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>4999</ConnectionClassId>
+			</Layer>
+			<Layer Idx="5000" Name="EF_50 Disposal elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1183AFF4-A2B7-487D-A121-68A47D3C7199</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_50 Disposal elements</Name>
+				<Index>5000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="5500" Name="EF_55 Piped supply elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>598148B7-8870-4983-BC9A-6AAA75EF52AD</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_55 Piped supply elements</Name>
+				<Index>5500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="6000" Name="EF_60 Heating, cooling and refrigeration elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CF4EEB5A-A777-4338-9EDC-43C3CA717B31</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_60 Heating, cooling and refrigeration elements</Name>
+				<Index>6000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="6500" Name="EF_65 Ventilation and air conditioning elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>9F9C434E-ED7E-47F2-98C0-DE42DBD34C42</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_65 Ventilation and air conditioning elements</Name>
+				<Index>6500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="7000" Name="EF_70 Electrical elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>32B65AC9-1203-4E40-94E8-2A89FBBC2D5A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_70 Electrical elements</Name>
+				<Index>7000</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="7500" Name="EF_75 Communication, security, safety and protection elements">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6C0CC72F-F8EE-4836-B976-A8EFB3867A69</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_75 Communication, security, safety and protection elements</Name>
+				<Index>7500</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="8000" Name="EF_80 = TRANSPORT ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>71036B6E-DFBC-4E1C-B0D0-151D7F725347</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_80 = TRANSPORT ELEMENTS =</Name>
+				<Index>8000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>8000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="8028" Name="EF_80_50 Escalators and moving walks">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BAAB0270-A39D-457F-8F79-E91AACDDFFBF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_80_50 Escalators and moving walks</Name>
+				<Index>8028</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="8029" Name="EF_80_50 Building lifts">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FC8B9675-644B-413C-A25A-036AB3099519</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_80_50 Building lifts</Name>
+				<Index>8029</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>1</ConnectionClassId>
+			</Layer>
+			<Layer Idx="8500" Name="EF_85 = PROCESS ENGINEERING ELEMENTS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>07FBADDF-5240-4F11-8CC6-20C5AFA469F2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>EF_85 = PROCESS ENGINEERING ELEMENTS =</Name>
+				<Index>8500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>8500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="12000" Name="SL_20 = ADM, COM, SRV SPACES =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>71604A8B-AC7F-4E8A-BCC7-D314B8A3117A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_20 = ADM, COM, SRV SPACES =</Name>
+				<Index>12000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="12001" Name="SL_20_00 Administrative, commercial, service gross spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C8778E47-9B61-4E33-BEFA-5B27A9D7E7B3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_20_00 Administrative, commercial, service gross spaces</Name>
+				<Index>12001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="12050" Name="SL_20_15 Administrative spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F6C320D8-45FE-46D6-8B4F-1975AD1C639C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_20_15 Administrative spaces</Name>
+				<Index>12050</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="12100" Name="SL_20_50 Commercial spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>14DC5CE5-7507-44A5-A0F2-F0422A3FFE78</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_20_50 Commercial spaces</Name>
+				<Index>12100</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="14500" Name="SL_45 = RESIDENTIAL SPACES =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>496B490A-A6D5-41A7-B538-932AA0D046AF</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_45 = RESIDENTIAL SPACES =</Name>
+				<Index>14500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>4500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="14501" Name="SL_45_00 Residential gross spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F9532DE6-27E7-465C-9220-51B214BAF564</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_45_00 Residential gross spaces</Name>
+				<Index>14501</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="14525" Name="SL_45_10 Living spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2227E6A1-886A-436A-AD8E-A01233532010</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_45_10 Living spaces</Name>
+				<Index>14525</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="18000" Name="SL_80 = TRANSPORT SPACES =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>47AF9A7D-4828-45E5-8748-120C78B9F0B3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_80 = TRANSPORT SPACES =</Name>
+				<Index>18000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>8000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="18001" Name="SL_80_00 Transport gross spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BBE4AB82-A93D-4EB4-8514-CF6EBE2F97C3</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_80_00 Transport gross spaces</Name>
+				<Index>18001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="18151" Name="SL_80_45 Indoor car parking spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>9638FF5E-98BF-4885-9C56-5E1C62415411</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_80_45 Indoor car parking spaces</Name>
+				<Index>18151</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="18152" Name="SL_80_45 Outdoor car parking spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>55FC7CD3-9096-4B63-BF63-9C194889E53A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_80_45 Outdoor car parking spaces</Name>
+				<Index>18152</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19000" Name="SL_90 = CIRCULATION AND PLANT SPACES =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>530E9670-194A-47E3-84DA-BE1C1A21D845</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90 = CIRCULATION AND PLANT SPACES =</Name>
+				<Index>19000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19001" Name="SL_90_00 Circulation and plant gross spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>98F7A929-F27B-4018-B5FA-8B73A4F8BC3C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90_00 Circulation and plant gross spaces</Name>
+				<Index>19001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19025" Name="SL_90_10 Circulation spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>A7F3F168-C08F-48AF-B9C2-CEDBAB9F19C6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90_10 Circulation spaces</Name>
+				<Index>19025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19050" Name="SL_90_20 Common spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1C28CFB9-BD1B-43CD-9BFB-143FA88DE87B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90_20 Common spaces</Name>
+				<Index>19050</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19075" Name="SL_90_50 Storage spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>438B6466-9DE0-4930-A61B-6DF831DEAF27</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90_50 Storage spaces</Name>
+				<Index>19075</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19100" Name="SL_90_60 Unoccupied voids">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BA28F095-EA7B-40FD-BA5C-B6C8A1FE8A10</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90_60 Unoccupied voids</Name>
+				<Index>19100</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="19125" Name="SL_90_90 Plant and control spaces">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>CDDBE896-68C0-473F-A8A2-698E69C2B1AA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>SL_90_90 Plant and control spaces</Name>
+				<Index>19125</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22000" Name="Zz_20 = TEXTUAL CONTENT =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>88FC7452-2674-416E-B7D3-E64139C0ABAC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20 = TEXTUAL CONTENT =</Name>
+				<Index>22000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>2000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22001" Name="Zz_20_10 Annotation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BEB558F5-3E55-4E1A-8344-7197F3762C87</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_10 Annotation</Name>
+				<Index>22001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22025" Name="Zz_20_20 Dimensions">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>093C0545-C756-4292-9D82-952FE24556F4</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_20 Dimensions</Name>
+				<Index>22025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22026" Name="Zz_20_20 Dimensions, structural">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>1407B7A6-0B0B-40A9-8132-7254DE8A705E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_20 Dimensions, structural</Name>
+				<Index>22026</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22027" Name="Zz_20_20 Dimensions, investment albums">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>4B32775F-A5CA-4896-8658-0F7DD5DCB302</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_20 Dimensions, investment albums</Name>
+				<Index>22027</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22028" Name="Zz_20_20 Dimensions.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6D2D0E21-156A-4B7D-A2F8-318B5F14DC29</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_20 Dimensions.WIP</Name>
+				<Index>22028</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22077" Name="Zz_20_40 Hatching.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>DAB79892-53CE-492C-A1CA-38A39AAB3AD8</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_40 Hatching.WIP</Name>
+				<Index>22077</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22102" Name="Zz_20_70 Linework.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>E7EDACCF-1981-44EF-A2BF-ED2BDE5B74BE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_70 Linework.WIP</Name>
+				<Index>22102</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22125" Name="Zz_20_80 Symbols">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>AE5938E2-6B1F-483A-8B79-29E688F238D0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_80 Symbols</Name>
+				<Index>22125</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="22150" Name="Zz_20_90 Title annotation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7F970A07-149E-46BB-81C8-A2CC63C2F42E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_20_90 Title annotation</Name>
+				<Index>22150</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23000" Name="Zz_30 = INSERTIONS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>0906CA56-F92D-4E19-A309-A637FBCE7C7E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_30 = INSERTIONS =</Name>
+				<Index>23000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>3000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23025" Name="Zz_30_30 External references">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>17DE08B6-107D-438C-B26D-5AB242B335A1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_30_30 External references</Name>
+				<Index>23025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23050" Name="Zz_30_40 Images">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>4768AB51-6C91-483C-B70E-5DCEDA18A870</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_30_40 Images</Name>
+				<Index>23050</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23500" Name="Zz_35 = SETTING OUT =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>32D3A7DA-F4D1-4E69-BEAF-47085B97E6DA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_35 = SETTING OUT =</Name>
+				<Index>23500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>3500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23576" Name="Zz_35_40 Structural grid">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FD47D24C-13DC-45A8-A6B9-567A4049CCC0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_35_40 Structural grid</Name>
+				<Index>23576</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23577" Name="Zz_35_40 Structural grid.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7A6D567C-56A4-49D9-A905-22299CB0BB19</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_35_40 Structural grid.WIP</Name>
+				<Index>23577</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="23578" Name="Zz_35_40 Secondary structural grid">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F5858D2F-5793-490B-AA8E-712A20CD9F7B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_35_40 Secondary structural grid</Name>
+				<Index>23578</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="25000" Name="Zz_50 = ZONES AND BOUNDARIES =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>0F5D26B7-44FD-4F2B-9609-F8E82FC86E1C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_50 = ZONES AND BOUNDARIES =</Name>
+				<Index>25000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>5000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="25001" Name="Zz_50_10 Boundaries">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>91B8B556-3DE2-4BC8-BEE3-3620A2E06D65</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_50_10 Boundaries</Name>
+				<Index>25001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="25125" Name="Zz_50_90 Volumes">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>79735902-5FD3-430C-9F2C-42E41E3DB3BB</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_50_90 Volumes</Name>
+				<Index>25125</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="25150" Name="Zz_50_95 Zones">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FFE37D2E-8009-4363-BF03-5693435265FE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_50_95 Zones</Name>
+				<Index>25150</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="26000" Name="Zz_60 = DRAWING SYMBOLS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>20A9B517-86CF-4C80-984A-354A2BF9F8FE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_60 = DRAWING SYMBOLS =</Name>
+				<Index>26000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>6000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="26075" Name="Zz_60_45 Levels">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2E41959B-EB4A-4E7E-9057-EBD55B1E845B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_60_45 Levels</Name>
+				<Index>26075</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="26100" Name="Zz_60_50 Markers">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3A6C7014-9546-45FA-9B83-314829E87D8D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_60_50 Markers</Name>
+				<Index>26100</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27000" Name="Zz_70 = VIEWS =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C9237BE5-EB0D-4F0F-A39A-249A9C1CBE6F</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70 = VIEWS =</Name>
+				<Index>27000</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>7000</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27001" Name="Zz_70_05 3D views">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>522CAA5F-B6AF-41E6-9617-E20BB5599E43</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70_05 3D views</Name>
+				<Index>27001</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27025" Name="Zz_70_20 Details">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>63110B3D-067E-4510-9F5D-A3BB4934169D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70_20 Details</Name>
+				<Index>27025</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27050" Name="Zz_70_30 Elevations">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>362C44F0-BE58-40FE-BC00-197229C42291</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70_30 Elevations</Name>
+				<Index>27050</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27075" Name="Zz_70_60 Levels">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>4CF159A3-F8A1-4EF8-8B2B-F20AE44C9D7B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70_60 Levels</Name>
+				<Index>27075</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27100" Name="Zz_70_80 Sections">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>F4347FC2-B6FA-4A97-AA8E-7DA17E38B045</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70_80 Sections</Name>
+				<Index>27100</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="27125" Name="Zz_70_90 Visualisations">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>476774E9-E80B-4AC6-9222-A07CC04BB62A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_70_90 Visualisations</Name>
+				<Index>27125</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="28500" Name="Zz_85 = GENERIC 3D =">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2B0D2A72-F429-4003-B4F4-1598F8278F83</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_85 = GENERIC 3D =</Name>
+				<Index>28500</Index>
+				<Flags>Layer_Hidden|Layer_Locked|Layer_ForceToWire</Flags>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>8500</ConnectionClassId>
+			</Layer>
+			<Layer Idx="28501" Name="Zz_85_05 3D solids.WIP">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6D0EB754-02F7-4465-8D06-815A8141EB66</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_85_05 3D solids.WIP</Name>
+				<Index>28501</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="28525" Name="Zz_85_05 Solid operators">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BCA35D6C-82CC-42AA-973E-4393ED2F97C0</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_85_05 Solid operators</Name>
+				<Index>28525</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="28551" Name="Zz_85_05 Openings, in slabs">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>EF0AA5FE-6E21-4DBC-AC81-3F1BA733F139</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_85_05 Openings, in slabs</Name>
+				<Index>28551</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+			<Layer Idx="28552" Name="Zz_85_05 Openings, in walls">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>272B3F67-4DDB-4991-8F0C-EB2A2BF12F3A</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zz_85_05 Openings, in walls</Name>
+				<Index>28552</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<ConnectionClassId>9</ConnectionClassId>
+			</Layer>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Mark-Up Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

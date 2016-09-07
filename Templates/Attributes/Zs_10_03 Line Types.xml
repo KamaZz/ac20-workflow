@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<AttributeFile Mv="1" Sv="2">
+	<PlatformSign>22359</PlatformSign>
+	<RegisteredAttributes>
+		<NumberOfRegisteredAttributes>16</NumberOfRegisteredAttributes>
+		<Attributes Type="Cities">
+			<RefID>1128879154</RefID>
+		</Attributes>
+		<Attributes Type="Composite Structures">
+			<RefID>1129791794</RefID>
+		</Attributes>
+		<Attributes Type="Dimension Standards">
+			<RefID>1398033970</RefID>
+		</Attributes>
+		<Attributes Type="Fill Types">
+			<RefID>1179208755</RefID>
+		</Attributes>
+		<Attributes Type="Layers">
+			<RefID>1279351090</RefID>
+		</Attributes>
+		<Attributes Type="Layer Combinations">
+			<RefID>1279479602</RefID>
+		</Attributes>
+		<Attributes Type="Line Types">
+			<RefID>1279872562</RefID>
+			<LineType Idx="1" Name="Solid Line">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>656A8734-8A20-47C5-942C-5708E864E753</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Solid Line</Name>
+				<Index>1</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>2.e+11</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>GX::Pattern::SolidLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>2.e+11</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="2" Name="Dense Dotted">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D58CB923-594B-4018-BAD0-1A20EA9F4FA6</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Dense Dotted</Name>
+				<Index>2</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>1.76388883590698</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="3" Name="Dotted">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C079D7B2-0334-4552-A24A-EBD6D9512871</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Dotted</Name>
+				<Index>3</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>6.34999990463257</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="4" Name="Dashed">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>20682E32-2D7E-4E68-95F0-73ADD818064B</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Dashed</Name>
+				<Index>4</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>5.64444446563721</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>2.8222222328186</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="5" Name="Long Dashed">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>6EF36318-5800-4AA8-B423-CD02702E3083</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Long Dashed</Name>
+				<Index>5</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>10.5833330154419</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>6.34999990463257</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="6" Name="Dot &amp; Dashed">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>422F8CF7-605B-4B25-A9BF-AC4A2E001FFA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Dot &amp; Dashed</Name>
+				<Index>6</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>6.70277762413025</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>3.52777767181396</CenterLineLength>
+						<CenterLineBegin>5.29166650772095</CenterLineBegin>
+						<CenterLineLength>0</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="7" Name="Double Dashed">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D75D0F99-2276-49E0-910F-890641E3AFC2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Double Dashed</Name>
+				<Index>7</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>10.9361107349396</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>5.29166650772095</CenterLineLength>
+						<CenterLineBegin>7.40833306312561</CenterLineBegin>
+						<CenterLineLength>1.4111111164093</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="8" Name="Triple Dashed">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>FB85CA3C-5741-4E3A-A147-4F0D2B7E58B7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Triple Dashed</Name>
+				<Index>8</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>14.4638884067535</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>5.29166650772095</CenterLineLength>
+						<CenterLineBegin>7.40833306312561</CenterLineBegin>
+						<CenterLineLength>1.4111111164093</CenterLineLength>
+						<CenterLineBegin>10.9361107349396</CenterLineBegin>
+						<CenterLineLength>1.4111111164093</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="9" Name="Zigzag">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>423B91D3-9253-4D0D-AB8F-57698CED8776</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Zigzag</Name>
+				<Index>9</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>100</DefineScale>
+				<LinePeriod>2.8222222328186</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>0</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>1.4111111164093</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>1.4111111164093</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>2.8222222328186</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="10" Name="Double">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>409B0D27-2BAC-49A5-A57D-A4EAFDB9BEC1</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Double</Name>
+				<Index>10</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>100</DefineScale>
+				<LinePeriod>2.8222222328186</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>2.8222222328186</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>ParallelItemType</ItemType>
+						<ParallelItemPosition>
+							<X>0</X>
+							<Y>-1.4111111164093</Y>
+						</ParallelItemPosition>
+						<ParallelItemLength>2.8222222328186</ParallelItemLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="11" Name="Break">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>B4F9A469-4152-407A-ABEA-557FA621CF20</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Break</Name>
+				<Index>11</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>16</DefineScale>
+				<LinePeriod>19.7555721402168</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>14.1111068725586</CenterLineLength>
+						<CenterLineBegin>19.7555513381958</CenterLineBegin>
+						<CenterLineLength>2.0802021027e-5</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>14.1111068725586</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>15.5222179889679</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>15.5222179889679</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>16.9333291053772</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.9333291053772</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>18.3444402217865</X>
+							<Y>1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>18.3444402217865</X>
+							<Y>1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>19.7555513381958</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="12" Name="Slash">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3AD85FA2-1831-4D7F-98DE-5FA96EBEEDA7</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Slash</Name>
+				<Index>12</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>16</DefineScale>
+				<LinePeriod>19.7555516958237</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>19.7555516958237</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>15.1694405078888</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>16.5805516242981</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.5805516242981</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>17.9916627407074</X>
+							<Y>1.4111111164093</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="13" Name="Arrow">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>2F284EA1-C22B-41BA-98F5-E5D4B0EBED5D</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Arrow</Name>
+				<Index>13</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>48</DefineScale>
+				<LinePeriod>20.4611072540283</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>17.6388850212097</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>16.2277739048004</X>
+							<Y>1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>17.6388850212097</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.2277739048004</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>17.6388850212097</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="14" Name="Wave">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>C1EE2E58-1B99-4BB4-8F3D-4438C2A154FC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Wave</Name>
+				<Index>14</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>48</DefineScale>
+				<LinePeriod>5.64444446563721</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>ArcItemType</ItemType>
+						<ArcItemPosition>
+							<X>1.4111111164093</X>
+							<Y>0</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>1.4111111164093</ArcItemRadius>
+						<ArcItemBeginAngle>3.14159265358979</ArcItemBeginAngle>
+						<ArcItemEndAngle>6.28318530717959</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>4.23333334922791</X>
+							<Y>0</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>1.4111111164093</ArcItemRadius>
+						<ArcItemBeginAngle>6.28318530717959</ArcItemBeginAngle>
+						<ArcItemEndAngle>9.42477796076938</ArcItemEndAngle>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="15" Name="X">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3C34D715-C369-4F37-B8DB-645D72BF6534</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>X</Name>
+				<Index>15</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>48</DefineScale>
+				<LinePeriod>19.7555522918701</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>19.7555522918701</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>15.5222189426422</X>
+							<Y>1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>16.9333300590515</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>15.5222189426422</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>16.9333300590515</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.9333300590515</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>18.3444411754608</X>
+							<Y>1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.9333300590515</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>18.3444411754608</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="16" Name="Double Slash">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3991A946-DA6D-49DB-99DA-E39BAAB995BA</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Double Slash</Name>
+				<Index>16</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>48</DefineScale>
+				<LinePeriod>19.7555556297302</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>19.7555556297302</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>12.7000000476837</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>14.111111164093</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>14.111111164093</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>15.5222222805023</X>
+							<Y>1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>15.5222222805023</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>16.9333333969116</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.9333333969116</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>18.3444445133209</X>
+							<Y>1.4111111164093</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="17" Name="Circles">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>0AFC2362-3A0A-4A48-A904-9C69BBD35E66</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Circles</Name>
+				<Index>17</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>48</DefineScale>
+				<LinePeriod>19.75554895401</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>16.9333267211914</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>CircItemType</ItemType>
+						<CircleItemPosition>
+							<X>18.3444378376007</X>
+							<Y>0</Y>
+						</CircleItemPosition>
+						<CircleItemRadius>1.4111111164093</CircleItemRadius>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="18" Name="Squares">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>93464DEB-7D6B-49FC-AFCA-55A0A581BD6C</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Squares</Name>
+				<Index>18</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>48</DefineScale>
+				<LinePeriod>19.7555508613586</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>SeparatorItemType</ItemType>
+						<SeparatorItem>19.7555508613586</SeparatorItem>
+						<SeparatorItem>16.93332862854</SeparatorItem>
+					</LineItem>
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>16.93332862854</CenterLineLength>
+					</LineItem>
+					<LineItem>
+						<ItemType>ParallelItemType</ItemType>
+						<ParallelItemPosition>
+							<X>16.93332862854</X>
+							<Y>1.4111111164093</Y>
+						</ParallelItemPosition>
+						<ParallelItemLength>2.8222222328186</ParallelItemLength>
+						<ParallelItemPosition>
+							<X>16.93332862854</X>
+							<Y>-1.4111111164093</Y>
+						</ParallelItemPosition>
+						<ParallelItemLength>2.8222222328186</ParallelItemLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="19" Name="Big Zigzag">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>BBF04215-8A37-4A84-86C5-2E4C8CD39559</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Big Zigzag</Name>
+				<Index>19</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>16</DefineScale>
+				<LinePeriod>5.64444446563721</LinePeriod>
+				<LineHeight>2.8222222328186</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>0</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>1.4111111164093</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>1.4111111164093</X>
+							<Y>-1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>2.8222222328186</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>2.8222222328186</X>
+							<Y>0</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>4.23333334922791</X>
+							<Y>1.4111111164093</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>4.23333334922791</X>
+							<Y>1.4111111164093</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>5.64444446563721</X>
+							<Y>0</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="20" Name="Crossed">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>5DF9625C-6123-4453-B2BA-C6FEC1981BAE</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Crossed</Name>
+				<Index>20</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>10</DefineScale>
+				<LinePeriod>20</LinePeriod>
+				<LineHeight>4.72589650032422</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>SeparatorItemType</ItemType>
+						<SeparatorItem>9.99999999999999</SeparatorItem>
+					</LineItem>
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>12.3629482501621</CenterLineBegin>
+						<CenterLineLength>-4.72589650032423</CenterLineLength>
+						<CenterLineBegin>6.62591687041564</CenterLineBegin>
+						<CenterLineLength>-6.62591687041564</CenterLineLength>
+						<CenterLineBegin>13.3740831295843</CenterLineBegin>
+						<CenterLineLength>6.62591687041566</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="21" Name="Hidden Line">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>D2D008C6-B52C-4463-BA83-9B351D16D390</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Hidden Line</Name>
+				<Index>21</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>1</DefineScale>
+				<LinePeriod>3.9122222328186</LinePeriod>
+				<LineHeight>0</LineHeight>
+				<LineType>DashedLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>CenterLineItemType</ItemType>
+						<CenterLineBegin>0</CenterLineBegin>
+						<CenterLineLength>2.8222222328186</CenterLineLength>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="22" Name="Sketch">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>3D98589D-942A-4A52-922A-5B057C0CE04E</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Sketch</Name>
+				<Index>22</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>100</DefineScale>
+				<LinePeriod>20</LinePeriod>
+				<LineHeight>0.490005958610702</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>17.3333333333333</X>
+							<Y>0.127983049784795</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>20</X>
+							<Y>-0.028879695313235</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>8.69670152579712</X>
+							<Y>-0.245002979305341</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>11.4901421811366</X>
+							<Y>0.206414422333829</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>5.72549019607845</X>
+							<Y>-0.185742440411275</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>7.21230874161888</X>
+							<Y>0.091651940278292</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>7.21230874161888</X>
+							<Y>0.091651940278292</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>8.69670152579712</X>
+							<Y>-0.245002979305341</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>16.3921568627451</X>
+							<Y>-0.141650986937452</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>17.3333333333333</X>
+							<Y>0.127983049784795</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>11.4901421811366</X>
+							<Y>0.206414422333829</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>16.3921568627451</X>
+							<Y>-0.141650986937452</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>0</X>
+							<Y>-0.028879695313235</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>3.73693926784839</X>
+							<Y>0.245002979305351</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>3.73693926784839</X>
+							<Y>0.245002979305351</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>5.72549019607845</X>
+							<Y>-0.185742440411275</Y>
+						</LineItemEndCoord>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="23" Name="Insulation">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>8CBEFE84-2C63-4389-B2C6-71DC897C06FC</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Insulation</Name>
+				<Index>23</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>50</DefineScale>
+				<LinePeriod>0.05</LinePeriod>
+				<LineHeight>0.118241972573208</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>ScaleWithPlan</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>LineItemType</ItemType>
+						<LineItemPosition>
+							<X>0.027099892714961</X>
+							<Y>-0.023989346174189</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>0.047900077995235</X>
+							<Y>0.023989336705741</Y>
+						</LineItemEndCoord>
+						<LineItemPosition>
+							<X>0.002099905602475</X>
+							<Y>0.023989336705741</Y>
+						</LineItemPosition>
+						<LineItemEndCoord>
+							<X>0.022900072137275</X>
+							<Y>-0.023989346174189</Y>
+						</LineItemEndCoord>
+					</LineItem>
+					<LineItem>
+						<ItemType>ArcItemType</ItemType>
+						<ArcItemPosition>
+							<X>0</X>
+							<Y>-0.034120992144564</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>0.024999994142039</ArcItemRadius>
+						<ArcItemBeginAngle>4.71238898038469</ArcItemBeginAngle>
+						<ArcItemEndAngle>0.412793417812753</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>0.025000005857961</X>
+							<Y>0.034120992144564</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>0.024999994142039</ArcItemRadius>
+						<ArcItemBeginAngle>5.870391545948</ArcItemBeginAngle>
+						<ArcItemEndAngle>3.55438596361418</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>0.04999998359771</X>
+							<Y>-0.034120982676116</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>0.024999994142039</ArcItemRadius>
+						<ArcItemBeginAngle>2.72879988000048</ArcItemBeginAngle>
+						<ArcItemEndAngle>4.71238947420581</ArcItemEndAngle>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+			<LineType Idx="24" Name="Bubble">
+				<OdbObj Mv="2" Sv="0">
+					<OdbRef>
+						<guid>7F234713-FAB0-412B-ABAA-E4B330ED33F2</guid>
+					</OdbRef>
+				</OdbObj>
+				<Name>Bubble</Name>
+				<Index>24</Index>
+				<Flags/>
+				<ModiTime>0</ModiTime>
+				<RegMemoTable MemoNumber="0" Mv="1" Sv="0"/>
+				<DefineScale>100</DefineScale>
+				<LinePeriod>39.67</LinePeriod>
+				<LineHeight>10.5199387837302</LineHeight>
+				<LineType>SymbolLine</LineType>
+				<LineFlags>FixScale</LineFlags>
+				<LineItemsData Mv="1" Sv="0">
+					<LineItem>
+						<ItemType>ArcItemType</ItemType>
+						<ArcItemPosition>
+							<X>5.49168441491964</X>
+							<Y>0.236818840958144</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>5.49678823282324</ArcItemRadius>
+						<ArcItemBeginAngle>-3.09849618446868</ArcItemBeginAngle>
+						<ArcItemEndAngle>-0.043096469121117</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>15.3487257470377</X>
+							<Y>0.886155254985085</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>4.45439245582035</ArcItemRadius>
+						<ArcItemBeginAngle>-2.94131683353226</ArcItemBeginAngle>
+						<ArcItemEndAngle>-0.200275820057536</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>24.7921509148545</X>
+							<Y>1.81157744410076</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>5.39152946703572</ArcItemRadius>
+						<ArcItemBeginAngle>-2.79892126135884</ArcItemBeginAngle>
+						<ArcItemEndAngle>-0.342671392230951</ArcItemEndAngle>
+						<ArcItemPosition>
+							<X>34.7701095827365</X>
+							<Y>1.35515474608233</Y>
+						</ArcItemPosition>
+						<ArcItemRadius>5.08383423087535</ArcItemRadius>
+						<ArcItemBeginAngle>-2.87176891942227</ArcItemBeginAngle>
+						<ArcItemEndAngle>-0.269823734167519</ArcItemEndAngle>
+					</LineItem>
+				</LineItemsData>
+			</LineType>
+		</Attributes>
+		<Attributes Type="Surfaces">
+			<RefID>1296127026</RefID>
+		</Attributes>
+		<Attributes Type="Pens">
+			<RefID>1347699276</RefID>
+		</Attributes>
+		<Attributes Type="Zone Categories">
+			<RefID>1380795186</RefID>
+		</Attributes>
+		<Attributes Type="Mark-Up Styles">
+			<RefID>1297306713</RefID>
+		</Attributes>
+		<Attributes Type="Profiles">
+			<RefID>1347571526</RefID>
+		</Attributes>
+		<Attributes Type="MEP Systems">
+			<RefID>1296388179</RefID>
+		</Attributes>
+		<Attributes Type="Operation Profiles">
+			<RefID>1162104656</RefID>
+		</Attributes>
+		<Attributes Type="Renovation Override Styles">
+			<RefID>1196381778</RefID>
+		</Attributes>
+		<Attributes Type="Building Materials">
+			<RefID>1112359252</RefID>
+		</Attributes>
+	</RegisteredAttributes>
+</AttributeFile>

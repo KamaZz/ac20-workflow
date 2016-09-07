@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+	<Version value="19"/>
+	<Header>
+		<Project value="IFC4"/>
+		<Partner value=""/>
+		<Description>
+			<![CDATA[]]>
+		</Description>
+		<IOUsage value="Export"/>
+		<Locked value="0"/>
+	</Header>
+	<Content>
+		<Filtering>
+			<Domain value="All Domain"/>
+			<StructuralElement value="All elements"/>
+			<ConvertAnnotation value="0"/>
+			<ConvertGrids value="1"/>
+			<DoorWindow2D value="0"/>
+			<Elements>
+				<Element value="IfcElement"/>
+				<Element value="IfcProxy"/>
+				<Element value="IfcSpatialStructureElement"/>
+				<Element value="IfcPort"/>
+				<Element value="IfcBuildingElement"/>
+				<Element value="IfcDistributionElement"/>
+				<Element value="IfcElectricalElement"/>
+				<Element value="IfcElementAssembly"/>
+				<Element value="IfcElementComponent"/>
+				<Element value="IfcEquipmentElement"/>
+				<Element value="IfcFeatureElement"/>
+				<Element value="IfcFurnishingElement"/>
+				<Element value="IfcTransportElement"/>
+				<Element value="IfcSpace"/>
+				<Element value="IfcDistributionPort"/>
+				<Element value="IfcBeam"/>
+				<Element value="IfcBuildingElementComponent"/>
+				<Element value="IfcBuildingElementProxy"/>
+				<Element value="IfcColumn"/>
+				<Element value="IfcCovering"/>
+				<Element value="IfcCurtainWall"/>
+				<Element value="IfcDoor"/>
+				<Element value="IfcFooting"/>
+				<Element value="IfcMember"/>
+				<Element value="IfcPile"/>
+				<Element value="IfcPlate"/>
+				<Element value="IfcRailing"/>
+				<Element value="IfcRamp"/>
+				<Element value="IfcRampFlight"/>
+				<Element value="IfcRoof"/>
+				<Element value="IfcSlab"/>
+				<Element value="IfcStair"/>
+				<Element value="IfcStairFlight"/>
+				<Element value="IfcWall"/>
+				<Element value="IfcWindow"/>
+				<Element value="IfcDistributionControlElement"/>
+				<Element value="IfcDistributionFlowElement"/>
+				<Element value="IfcDiscreteAccessory"/>
+				<Element value="IfcFastener"/>
+				<Element value="IfcFeatureElementAddition"/>
+				<Element value="IfcFeatureElementSubtraction"/>
+				<Element value="IfcBuildingElementPart"/>
+				<Element value="IfcReinforcingElement"/>
+				<Element value="IfcWallStandardCase"/>
+				<Element value="IfcDistributionChamberElement"/>
+				<Element value="IfcEnergyConversionDevice"/>
+				<Element value="IfcFlowController"/>
+				<Element value="IfcFlowFitting"/>
+				<Element value="IfcFlowMovingDevice"/>
+				<Element value="IfcFlowSegment"/>
+				<Element value="IfcFlowStorageDevice"/>
+				<Element value="IfcFlowTerminal"/>
+				<Element value="IfcFlowTreatmentDevice"/>
+				<Element value="IfcMechanicalFastener"/>
+				<Element value="IfcProjectionElement"/>
+				<Element value="IfcEdgeFeature"/>
+				<Element value="IfcOpeningElement"/>
+				<Element value="IfcReinforcingBar"/>
+				<Element value="IfcReinforcingMesh"/>
+				<Element value="IfcTendon"/>
+				<Element value="IfcTendonAnchor"/>
+				<Element value="IfcElectricDistributionPoint"/>
+				<Element value="IfcChamferEdgeFeature"/>
+				<Element value="IfcRoundedEdgeFeature"/>
+			</Elements>
+		</Filtering>
+		<Importing>
+			<BuildingElements value="Construction Elements Otherwise Morphs"/>
+			<DistributionElements value="Morph"/>
+			<OtherElementsImportMode value="Morph"/>
+			<ImportSiteGeometry value="1"/>
+			<SiteGeometry value="Morph"/>
+			<ImportUnnamedProfilesAsCustom value="As Custom profiles"/>
+			<LayerState value="Imported layers with extension"/>
+			<LockedLayer value="1"/>
+			<NewLayerName value="Model from Revit Structure"/>
+			<LayerExtension value="Revit Structure"/>
+			<MaterialImportMode value="Create Attributes From IFCMaterials"/>
+			<UseMaterialConversion value="1"/>
+			<ConversionTable>
+				<Element ACBuildingMaterial="Concrete Reinforced" IFCMaterial="Concrete"/>
+				<Element ACBuildingMaterial="Concrete in Situ" IFCMaterial="Concrete - Cast In Situ"/>
+				<Element ACBuildingMaterial="Concrete Reinforced" IFCMaterial="Concrete - Cast-in-Place Concrete"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - 21 Mpa"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - 28 Mpa"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - 35 Mpa"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C10"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C12/15"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C15"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C16/20"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C20"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C20/25"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C25"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C25/30"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C30"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C30/37"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C35"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C35/45"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C40"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C40/50"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C45"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C45/55"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C50"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C50/60"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C60"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Cast-in-Place Concrete - C7_5"/>
+				<Element ACBuildingMaterial="Concrete" IFCMaterial="Concrete - Cast-in-Place Lightweight Concrete - 28 Mpa"/>
+				<Element ACBuildingMaterial="Concrete" IFCMaterial="Concrete - LwConc30"/>
+				<Element ACBuildingMaterial="Concrete" IFCMaterial="Concrete - LwConc40"/>
+				<Element ACBuildingMaterial="Concrete" IFCMaterial="Concrete - LwConc45"/>
+				<Element ACBuildingMaterial="Concrete" IFCMaterial="Concrete - LwConc50"/>
+				<Element ACBuildingMaterial="Concrete - Structural" IFCMaterial="Concrete - Precast Concrete"/>
+				<Element ACBuildingMaterial="Concrete" IFCMaterial="Concrete - Sand/Cement Screed"/>
+				<Element ACBuildingMaterial="GENERIC - PREFABRICATED" IFCMaterial="Filled"/>
+				<Element ACBuildingMaterial="Insulation - Fiber Hard" IFCMaterial="Insulation / Thermal Barriers - Cavity Fill"/>
+				<Element ACBuildingMaterial="Insulation - Fiber Hard" IFCMaterial="Insulation / Thermal Barriers - Rigid insulation"/>
+				<Element ACBuildingMaterial="Masonry Block - Structural" IFCMaterial="Masonry"/>
+				<Element ACBuildingMaterial="Brick - Structural" IFCMaterial="Masonry - Brick"/>
+				<Element ACBuildingMaterial="Brick - Structural" IFCMaterial="Masonry - Brick Soldier Course"/>
+				<Element ACBuildingMaterial="Masonry Block - Structural" IFCMaterial="Masonry - Concrete Block"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Decking"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - 250 MPa"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - 290 MPa"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - 345 MPa"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - ASTM A992"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S235"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S235W"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S275"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S275M/ML"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S275N/NL"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S355"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S355M/ML"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S355N/NL"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S355W"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S420M/ML"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S420N/NL"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S450"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S460/Q/QL/QL1"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S460M/ML"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel - S460N/NL"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 43-245"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 43-265"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 43-275"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 50-325"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 50-340"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 50-355"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 55-415"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 55-430"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel 55-450"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel S275"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel S355"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Steel S460"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Metal - Stud Layer"/>
+				<Element ACBuildingMaterial="Gypsum Plasterboard" IFCMaterial="Plasterboard"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Rebar - ASTM A615M - Grade 300 - Billet Steel"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Rebar - ASTM A615M - Grade 420 - Billet Steel"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Rebar - ASTM A615M - Grade 520 - Billet Steel"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Rebar - ASTM A706M - Grade 420 - Low-Allow Steel"/>
+				<Element ACBuildingMaterial="Plaster - Gypsum" IFCMaterial="Render - Beige, Smooth"/>
+				<Element ACBuildingMaterial="Plaster - Gypsum" IFCMaterial="Render - Tan, Textured"/>
+				<Element ACBuildingMaterial="Soil" IFCMaterial="Site - Earth"/>
+				<Element ACBuildingMaterial="Soil" IFCMaterial="Site - Hardcore"/>
+				<Element ACBuildingMaterial="Sand" IFCMaterial="Site - Sand"/>
+				<Element ACBuildingMaterial="Stone - Structural" IFCMaterial="Stone"/>
+				<Element ACBuildingMaterial="Steel - Structural" IFCMaterial="Structure - Steel Bar Joist Layer"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - Birch"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C14"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C16"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C18"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C20"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C22"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C24"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C27"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C30"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C35"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C40"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C45"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - C50"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - D30"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - D35"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - D40"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - D50"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - D60"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - D70"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - Firring"/>
+				<Element ACBuildingMaterial="Timber - Floor" IFCMaterial="Wood - Flooring"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL24c"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL24h"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL28c"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL28h"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL32c"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL32h"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL36c"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - GL36h"/>
+				<Element ACBuildingMaterial="Timber - Structural" IFCMaterial="Wood - KETRO S"/>
+				<Element ACBuildingMaterial="Plywood" IFCMaterial="Wood - Sheathing - Chipboard"/>
+				<Element ACBuildingMaterial="Plywood" IFCMaterial="Wood - Sheathing - plywood"/>
+			</ConversionTable>
+			<DefaultBuildingMaterial value="Metal"/>
+			<ImportSurfaceFromGeometry value="1"/>
+			<ShowModelFilter value="1"/>
+			<RenovationStatus value="Existing"/>
+		</Importing>
+		<Exporting>
+			<ElementsToExport value="Visible elements"/>
+			<IFCSchema value="IFC4"/>
+			<ViewDefinition value="IFC4 Design Transfer View"/>
+			<ExtendedModelViewName value=""/>
+			<ModelUnits>
+				<LengthUnit value="Millimeter"/>
+				<AngleUnit value="Degree"/>
+				<AreaUnit value="Square Meter"/>
+				<VolumeUnit value="Cubic Meter"/>
+				<CurrencyUnit value="USD"/>
+				<TimeUnit value="Year"/>
+			</ModelUnits>
+			<PropertiesExportMode value="All"/>
+			<GeometryRepresentationOptions>
+				<UseBRepGeometry value="0"/>
+				<TriangulateSurfaces value="0"/>
+				<ExplodeToBuildingElementPart value="0"/>
+				<ExportCollisionDetectionOnly value="1"/>
+				<MultiSkinElements value="As building element parts"/>
+				<SolidOperation value="Extruded/revolved"/>
+				<Junctions value="Extruded/revolved without junctions"/>
+				<SlantedEdgeSlabs value="Extruded"/>
+				<UseLegacyGeometricMethodsAsInCV1 value="0"/>
+				<SiteProperties value="with detailed geometry (BREP)"/>
+				<SiteLocation value="at project origin"/>
+			</GeometryRepresentationOptions>
+			<BuildingInformationDataSettings>
+				<Properties value="0"/>
+				<Parameters value="0"/>
+				<ParametersSetting value="All"/>
+				<IFCBaseQuantity value="0"/>
+				<WindowDoorLiningAndPanelParameters value="1"/>
+				<SpaceContainment value="1"/>
+				<SpaceBoundaries value="1"/>
+				<ZoneCategory value="1"/>
+				<BoundingBox value="0"/>
+				<ExportGeometryToTypeObjects value="0"/>
+			</BuildingInformationDataSettings>
+			<KeepExistingGUID value="1"/>
+		</Exporting>
+	</Content>
+</Config>

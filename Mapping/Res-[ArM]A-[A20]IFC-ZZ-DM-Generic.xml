@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SchemeItemList>
+	<SchemeAttribute IFCEntityType="IfcObject" Name="ObjectType">
+		<RulesTable>
+			<RulesTableItem IFCEntityType="IfcWall">
+				<Rules>
+					<Rule>
+						<GroupValue>
+							<GeneralValue Field="General_StructureType">
+								<Tool name="Wall_Tool"/>
+							</GeneralValue>
+							<TextValue Text=" "/>
+							<GeneralValue Field="General_Type">
+								<Tool name="Wall_Tool"/>
+							</GeneralValue>
+							<TextValue Text=", "/>
+							<WallValue Field="Wall_Fill"/>
+							<TextValue Text=", "/>
+							<WallValue Field="Wall_Thickness"/>
+							<TextValue Text="mm"/>
+						</GroupValue>
+					</Rule>
+				</Rules>
+			</RulesTableItem>
+			<RulesTableItem IFCEntityType="IfcSlab">
+				<Rules>
+					<Rule>
+						<GroupValue>
+							<GeneralValue Field="General_StructureType">
+								<Tool name="Ceil_Tool"/>
+							</GeneralValue>
+							<TextValue Text=" "/>
+							<GeneralValue Field="General_Type">
+								<Tool name="Ceil_Tool"/>
+							</GeneralValue>
+							<TextValue Text=", "/>
+							<CeilValue Field="Ceil_SectionFill"/>
+							<TextValue Text=", "/>
+							<CeilValue Field="Ceil_Thickness"/>
+							<TextValue Text="mm"/>
+						</GroupValue>
+					</Rule>
+				</Rules>
+			</RulesTableItem>
+			<RulesTableItem IFCEntityType="IfcColumn">
+				<Rules>
+					<Rule>
+						<GroupValue>
+							<GeneralValue Field="General_StructureType">
+								<Tool name="Column_Tool"/>
+							</GeneralValue>
+							<TextValue Text=" "/>
+							<GeneralValue Field="General_Type">
+								<Tool name="Column_Tool"/>
+							</GeneralValue>
+							<TextValue Text=", "/>
+							<ColumnValue Field="Column_CoreFill"/>
+							<TextValue Text=","/>
+							<ColumnValue Field="Column_CoreDepth"/>
+							<TextValue Text="x"/>
+							<ColumnValue Field="Column_CoreWidth"/>
+							<TextValue Text="mm"/>
+						</GroupValue>
+					</Rule>
+				</Rules>
+			</RulesTableItem>
+			<RulesTableItem IFCEntityType="IfcBeam">
+				<Rules>
+					<Rule>
+						<GroupValue>
+							<GeneralValue Field="General_StructureType">
+								<Tool name="Beam_Tool"/>
+							</GeneralValue>
+							<TextValue Text=" "/>
+							<GeneralValue Field="General_Type">
+								<Tool name="Beam_Tool"/>
+							</GeneralValue>
+							<TextValue Text=", "/>
+							<BeamValue Field="Beam_SectionFill"/>
+							<TextValue Text=", "/>
+							<BeamValue Field="Beam_Height"/>
+							<TextValue Text="x"/>
+							<BeamValue Field="Beam_Width"/>
+							<TextValue Text="mm"/>
+						</GroupValue>
+					</Rule>
+				</Rules>
+			</RulesTableItem>
+		</RulesTable>
+	</SchemeAttribute>
+</SchemeItemList>
