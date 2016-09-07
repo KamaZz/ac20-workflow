@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Profile guid="BB3BCBE5-23F8-4B55-A812-247784389F0A" name="a.technologies" xmlns="http://www.graphisoft.com/Development/WorkEnvironment/Profile/2005/01">
+	<SchemeRef componentType="D3EC122F-0A7F-4B14-94D0-0A6B7FFA66C3" componentTypeName="User Preferences" guid="E9762545-3598-4CCB-AF68-F3C0F6FBE357" name="Standard User Prefs 20"/>
+	<SchemeRef componentType="24B978B9-B65D-4405-AF78-3990DCBEB13F" componentTypeName="Company Standards" guid="C65209BF-D1EE-4A7C-ABF5-81CD7C74ABE2" name="Company Standards 20"/>
+	<SchemeRef componentType="F078DB9E-D588-405D-9693-06F9D70B27CF" componentTypeName="Shortcut" guid="9A79891E-70DE-474E-9EA8-2D5D97595CE4" name="i.yurasov"/>
+	<SchemeRef componentType="6FCD168F-A26C-4547-AF9D-ED9A5FC54DD7" componentTypeName="Command Layout" guid="DBA144C0-C7E8-4D9F-817E-023DF5F906C9" name="i.yurasov"/>
+	<SchemeRef componentType="AD074D1A-BFE2-48B7-B478-54652249B51D" componentTypeName="Tools" guid="642F086E-5790-4CDF-886B-EEDF33677549" name="tech.archimatika"/>
+	<SchemeRef componentType="40C3FF18-F1CE-4430-92B2-F6631BD465D3" componentTypeName="Workspace" guid="E263656D-8A06-4290-B2E4-08A885B3C248" name="tech.archimatika"/>
+</Profile>
