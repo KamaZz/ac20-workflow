@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Config>
 	<Version value="19"/>
 	<Header>
@@ -7,32 +7,18 @@
 		<Description>
 			<![CDATA[]]>
 		</Description>
-		<IOUsage value="Export"/>
+		<IOUsage value="ImportExport"/>
 		<Locked value="0"/>
 	</Header>
 	<Content>
 		<Filtering>
-			<Domain value="All Domain"/>
-			<StructuralElement value="All elements"/>
+			<Domain value="Structural"/>
+			<StructuralElement value="Structural elements only"/>
 			<ConvertAnnotation value="0"/>
 			<ConvertGrids value="1"/>
 			<DoorWindow2D value="0"/>
 			<Elements>
-				<Element value="IfcElement"/>
-				<Element value="IfcProxy"/>
-				<Element value="IfcSpatialStructureElement"/>
-				<Element value="IfcPort"/>
 				<Element value="IfcBuildingElement"/>
-				<Element value="IfcDistributionElement"/>
-				<Element value="IfcElectricalElement"/>
-				<Element value="IfcElementAssembly"/>
-				<Element value="IfcElementComponent"/>
-				<Element value="IfcEquipmentElement"/>
-				<Element value="IfcFeatureElement"/>
-				<Element value="IfcFurnishingElement"/>
-				<Element value="IfcTransportElement"/>
-				<Element value="IfcSpace"/>
-				<Element value="IfcDistributionPort"/>
 				<Element value="IfcBeam"/>
 				<Element value="IfcBuildingElementComponent"/>
 				<Element value="IfcBuildingElementProxy"/>
@@ -53,35 +39,13 @@
 				<Element value="IfcStairFlight"/>
 				<Element value="IfcWall"/>
 				<Element value="IfcWindow"/>
-				<Element value="IfcDistributionControlElement"/>
-				<Element value="IfcDistributionFlowElement"/>
-				<Element value="IfcDiscreteAccessory"/>
-				<Element value="IfcFastener"/>
-				<Element value="IfcFeatureElementAddition"/>
-				<Element value="IfcFeatureElementSubtraction"/>
 				<Element value="IfcBuildingElementPart"/>
 				<Element value="IfcReinforcingElement"/>
 				<Element value="IfcWallStandardCase"/>
-				<Element value="IfcDistributionChamberElement"/>
-				<Element value="IfcEnergyConversionDevice"/>
-				<Element value="IfcFlowController"/>
-				<Element value="IfcFlowFitting"/>
-				<Element value="IfcFlowMovingDevice"/>
-				<Element value="IfcFlowSegment"/>
-				<Element value="IfcFlowStorageDevice"/>
-				<Element value="IfcFlowTerminal"/>
-				<Element value="IfcFlowTreatmentDevice"/>
-				<Element value="IfcMechanicalFastener"/>
-				<Element value="IfcProjectionElement"/>
-				<Element value="IfcEdgeFeature"/>
-				<Element value="IfcOpeningElement"/>
 				<Element value="IfcReinforcingBar"/>
 				<Element value="IfcReinforcingMesh"/>
 				<Element value="IfcTendon"/>
 				<Element value="IfcTendonAnchor"/>
-				<Element value="IfcElectricDistributionPoint"/>
-				<Element value="IfcChamferEdgeFeature"/>
-				<Element value="IfcRoundedEdgeFeature"/>
 			</Elements>
 		</Filtering>
 		<Importing>
@@ -90,6 +54,7 @@
 			<OtherElementsImportMode value="Morph"/>
 			<ImportSiteGeometry value="1"/>
 			<SiteGeometry value="Morph"/>
+			<ImportSiteLocation value="Site at origin"/>
 			<ImportUnnamedProfilesAsCustom value="As Custom profiles"/>
 			<LayerState value="Imported layers with extension"/>
 			<LockedLayer value="1"/>
